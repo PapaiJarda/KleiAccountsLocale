@@ -375,7 +375,7 @@ msgstr "Opções de Marketing"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
-msgstr "Use estas opções para configurar seu boletim de notícias. Lembre-se, você pode se desinscrever-se a qualquer momento."
+msgstr "Use estas opções para configurar seu boletim de notícias. Lembre-se, você poderá desinscrever-se a qualquer momento."
 
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
