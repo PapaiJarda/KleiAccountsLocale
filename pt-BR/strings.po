@@ -147,7 +147,7 @@ msgstr "Ativar Conta"
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
-msgstr "Sua conta Klei foi criada com sucesso! Por favor complete o formulário para ativar e ter acesso a recursos adicionais. Você também pode se inscrever em nosso boletim de notícias para receber informações do seu jogo favorito."
+msgstr "Sua conta Klei foi criada com sucesso! Por favor complete o formulário para ativar e ter acesso a recursos adicionais. Você também pode se inscrever em nosso boletim de notícias para receber informações sobre o seu jogo favorito."
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -159,7 +159,7 @@ msgstr "Desejo receber o boletim informativo (Newsletter)"
 
 #. i18n: keyword: EULA
 msgid "I agree to the <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">EULA</a>"
-msgstr "Eu aceito os <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Contrato de licença do usuário final</a>"
+msgstr "Eu aceito o <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Contrato de licença do usuário final</a>"
 
 #. i18n: keyword: MustAcceptEULA
 msgid "EULA Must Be Accepted to Register. Please read our EULA and check the confirmation box to proceed."
@@ -199,7 +199,7 @@ msgstr "Oops, parece que o link que você usou para chegar até aqui é inválid
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "We cannot execute this operation because your e-mail address is not verified yet."
-msgstr "Não pudemos executar essa operação pois seu e-mail não foi verificado ainda."
+msgstr "Não podemos executar essa operação pois seu e-mail não foi verificado ainda."
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -251,7 +251,7 @@ msgstr "Se inscrevendo..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr "Receba as últimas notícias e atualizações para {{.Gamename}}. Nós não enviamos muitos e-mails, mas quando mandamoos fazemos valer apena! Cancele a qualquer momento na parte inferior de qualquer e-mail que mandarmos. Para as últimas notícias você também pode nos seguir no Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> e visitar nosso fórum oficial <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
+msgstr "Receba as últimas notícias e atualizações para {{.Gamename}}. Nós não enviamos muitos e-mails, mas quando enviamos tentamos fazer valer a pena! Cancele a qualquer momento na parte inferior de qualquer e-mail que mandarmos. Para as últimas notícias você também pode nos seguir no Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> e visitar nosso fórum oficial <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
@@ -259,7 +259,7 @@ msgstr "Inscrição completa"
 
 #. i18n: keyword: SubscribeCompleteDescription
 msgid "Your email subscription has been processed. If this is the first time you subscribe to one of our newsletters, you will receive a confirmation email."
-msgstr "Sua inscrição de e-mail foi processada. Se esse é a sua primeira vez se inscrevendo em um dos nossos boletins de notícias, você irá receber um e-mail de confirmação."
+msgstr "Sua inscrição de e-mail foi processada. Se essa é a sua primeira vez se inscrevendo em um dos nossos boletins de notícias, você irá receber um e-mail de confirmação."
 
 #. i18n: keyword: UserInfo
 msgid "User Info"
@@ -299,15 +299,15 @@ msgstr "Editar Assinaturas"
 
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from E-mails"
-msgstr "Cancelar inscrição de e-mails"
+msgstr "Cancelar inscrição de E-mails"
 
 #. i18n: keyword: SignupForABeta
 msgid "Sign up for a Beta"
-msgstr "Cadastre-se para uma versão beta"
+msgstr "Cadastre-se para uma versão Beta"
 
 #. i18n: keyword: DownloadPersonalData
 msgid "Download Personal Data"
-msgstr "Download de dados pessoais"
+msgstr "Download de Dados Pessoais"
 
 #. i18n: keyword: GamePlayerID
 msgid "Player ID"
@@ -327,7 +327,7 @@ msgstr "Vincular Conta"
 
 #. i18n: keyword: AddedOn
 msgid "Added On"
-msgstr "Adicionado em"
+msgstr "Adicionado Em"
 
 #. i18n: keyword: AccountLinkRulesTitle
 msgid "Streaming Rules"
@@ -335,7 +335,7 @@ msgstr "Regras de Transmissão (Streaming)"
 
 #. i18n: keyword: AccountLinkRulesDescription
 msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
-msgstr "O sistema de recompensas da Klei é uma maneira de oferecer suporte aos streamers que fornecem conteúdo de qualidade para a nossa comunidade, e as transmissões \"Away From Keyboard (AFK)\" interrompem a eficácia do nosso sistema. Transmissões AFK ou transmissões que exibem conteúdo diferente de Don't Starve ou Don't Starve Together não são permitidas. Streamers que quebrarem essas regras serão desvinculados do sistema e potencialmente proibidos de participar novamente."
+msgstr "O sistema de recompensas da Klei é uma maneira de oferecer suporte aos streamers que fornecem conteúdo de qualidade para a nossa comunidade, e as transmissões \"Away From Keyboard (AFK)\" interrompem a eficácia do nosso sistema. Transmissões AFK ou transmissões que exibem conteúdo diferente de Don't Starve ou Don't Starve Together não são permitidas. Streamers que quebrarem essas regras serão desvinculados do sistema e potencialmente proibidos de participarem novamente."
 
 #. i18n: keyword: AccountLinkRulesAccept
 msgid "Accept and Continue"
@@ -351,7 +351,7 @@ msgstr "Este é o endereço de e-mail que usaremos para enviar atualizações e 
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
-msgstr "Seu novo e-mail está sendo mudado. Nós enviamos um e-mail com um link de verificação para autorizar a troca."
+msgstr "Seu novo e-mail está sendo alterado. Nós enviamos um e-mail com um link de verificação para autorizar a alteração."
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
